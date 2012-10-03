@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight4", "Silverlight4\Silverlight4.csproj", "{7FFB8A4C-00D6-4EDD-888B-A0F6BC2522A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight5", "Silverlight5\Silverlight5.csproj", "{BE66B8B3-5815-4719-934A-C9F0F3DFB221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsPhone75", "WindowsPhone75\WindowsPhone75.csproj", "{A31C1597-3AF1-4A97-BB11-CD723D117F0B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs12
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Silverlight4\\Silverlight4.csproj
+		SccProjectName1 = Silverlight4
+		SccLocalPath1 = Silverlight4
+		SccProjectUniqueName2 = Silverlight5\\Silverlight5.csproj
+		SccProjectName2 = Silverlight5
+		SccLocalPath2 = Silverlight5
+		SccProjectUniqueName3 = WindowsPhone75\\WindowsPhone75.csproj
+		SccProjectName3 = WindowsPhone75
+		SccLocalPath3 = WindowsPhone75
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FFB8A4C-00D6-4EDD-888B-A0F6BC2522A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFB8A4C-00D6-4EDD-888B-A0F6BC2522A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFB8A4C-00D6-4EDD-888B-A0F6BC2522A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFB8A4C-00D6-4EDD-888B-A0F6BC2522A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE66B8B3-5815-4719-934A-C9F0F3DFB221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66B8B3-5815-4719-934A-C9F0F3DFB221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66B8B3-5815-4719-934A-C9F0F3DFB221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66B8B3-5815-4719-934A-C9F0F3DFB221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31C1597-3AF1-4A97-BB11-CD723D117F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31C1597-3AF1-4A97-BB11-CD723D117F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31C1597-3AF1-4A97-BB11-CD723D117F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31C1597-3AF1-4A97-BB11-CD723D117F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
